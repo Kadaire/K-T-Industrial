@@ -9,6 +9,7 @@
 ## K225-KTI
 - Adds a new AT-K225 variant: `K225-KTI`
 - Approximate Cost: `5,000,000 E$`
+- Secondary Aux Power Slot
 - High stress Hardpoints: `2`
 - Drone Hardpoints: `2`
 - Low stress Hardpoints: `2`
