@@ -5,14 +5,10 @@
 - The [K-Tech Industrial Generators](https://github.com/Kadaire/K-Tech-Industrial-of-Mars/tree/Main/K-Tech%20Industrial%20Generator%20Department) department designs and manufactures new auxiliary power generators for ships as separate mod files.
 - The [K-Tech Industrial Jet Propulsion Labs](https://github.com/Kadaire/K-Tech-Industrial-of-Mars/tree/Main/K-Tech%20Industrial%20Jet%20Propulsion%20Labs) department adds new RCS and Main engine systems to the game as separate mod files. 
 - The [K-Tech Industrial shipyards](https://github.com/Kadaire/K-Tech-Industrial-of-Mars/tree/Main/K-Tech%20Industrial%20Shipyards) department adds new ship variants to the game as separate mod files. 
+- The [K-Tech Industrial Electronics](https://github.com/Kadaire/K-Tech-Industrial-of-Mars/tree/Main/K-Tech%20Industrial%20Electronics) department adds Various new electronics upgrades to the game as separate mod files. 
 
 # Important Compatiblity Note:
 **`K-Tech Industrial` Branded Mods DO NOT currently work with the Industries of Enceladus mod. There is no current workaround for this. Will update this section if that changes.**
-
-# Contributors
-- Initial teaching of modding by `Rena-chan` on the DV Discord
-- Huge help from `Digitalbarrito` on the DV discord
-- Dozens of bugfixes and code improvements by 1Za'Krin` on the DV discord
 
 ## Limitation of Liability
 
