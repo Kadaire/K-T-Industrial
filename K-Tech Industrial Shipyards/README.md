@@ -2,47 +2,35 @@
 
 - After speaking with several mining crews that often use the Rusatom-Antonoff-K255 Titan, the CEO of K-Tech Industrial decided to open a new shipyard department. K-Tech Industrial Shipyards has been tasked with overseeing the modification of existing ships to expand thier capabilities. 
 
-# Department notes: 
+# Mod notes: 
 - The `K-Tech Industrial shipyards` department adds new ship variants to the game as separate mod files. 
 
 
 ## K225-KTI
-
-- The first new ship variant that K-Tech Industrial Shipyards designed was the "K225-KTI".  The original Rusatom-Antonoff AT-K225 Titan was a behemonth, however the improved "K225-KTI" variant is a true monster. Boasting two new low-stress hardpoints, two new dedicated drone hardpoints, along with an increased internal processed material storage of 26,000Kg, a reworked thruster layout, and two new high-stress hardpoints reinforced to support the ARM-1500 Salvage arms, the K225-KTI is designed to be a true workhorse in the belt.
-# 
-Adds a new AT-K225 variant: `K225-KTI`
+- Adds a new AT-K225 variant: `K225-KTI`
+- Approximate Cost: `5,000,000 E$`
 - High stress Hardpoints: `2`
 - Drone Hardpoints: `2`
 - Low stress Hardpoints: `2`
 - Processed Material Storage: `26,000Kg`
 - Docking Bays: `6`
 
+## K44 & K37 Series
+- Adds Two new upgraded variants of the K37 & K44 Series ships.
+- Approximate cost: Same as a standard K series.
+- High Stress Hardpoints: `1`
+- Low Stress Hardpoints: `2`
+- Processed Material storage: K37: `7,000kg` K44: `10,000kg` 
+- Docking bays: `2` Supports THI Cargo containers, and B8 Claim Beacons. Other modules not "officially" supported or covered by warranty.
 
-## Kitsumo-KTI
-
-- The second ship variant to roll out of the shipyards of K-Tech Industrial is the "Kitsumo-KTI".
-The Nakamura-Dynamics designed kitsune never managed to reach the hearts of belters, often seen as a downgrade in capabilities for more money than it was worth.   The "Kitsumo-KTI" aims to aleviate some of those negative points, now boasting a forward high-stress mount compatible with special downsized versions of popular mining tools including the ARM-1500,  and a new underside mounted low-stress hardpoint for mounting mining equipment, Designers at KTI Shipyards were also able to increase the internal processed material storage to 36,000Kg by removing several layers of insulating styrofoam from the inner hull.  A single main torch finishes off the new design tweaks.
-# 
-Adds a new ND-LIS Kitsune variant: `Kitsumo-KTI`
+## Kitsumo
+- Adds a new AT-K225 variant: `Kitsumo-KTI`
+- Approximate Cost: `600,000 E$`
 - High stress Hardpoints: `1`
 - Low stress Hardpoints: `1`
 - Processed Material Storage: `36,000Kg`
 - Main torch: `1`
 - RCS: `6`
-
-
-## OCP230-KTI
-
-- The third new ship variant that K-Tech Industrial Shipyards designed was the "OCP230-KTI".  The original Obonto Microengineering OCP209 was a never properly designed for mining in the belt, however the improved "OCP230-KTI" variant should be a pleasant upgrade to miners. the biggest change is with the low-stress hardpoints which have been rotated and split, the left hardpoint is still located near the hab, but the right hardpoint has been moved to the rear reactor housing, both slots have been rotated to face to the right, the same direction as the ships cargo bay opening.  Two new dedicated drone hardpoints have been added to support large scale mining, and the internal processed material bays have been slightly expanded to hold 60,000Kg(combined).
-#
-Adds a new OCP209 variant: `OCP230-KTI`
-- High-Stress Hardpoints: `2` 
-- Low-Stress Hardpoints: `2` 
-- Drone Hardpoints: `2`
-- Crew: `8` 
-- Dry mass(Approximate): `400,000 kg`
-- Cargo bay: `700 m^3`
-- Processed cargo storage(combined): `60,000kg`
 
 
 # Important Compatiblity Note:
