@@ -8,7 +8,7 @@
 
 ## Pilot Zoom
 - Adds new zoom functionality to the Pilot LIDAR screen on your OMS menu as a free upgrade upon docking with Enceladus.
-- `Original product of [ZKY Industries] (https://github.com/ZakrinYoran/ZKYs-of-Saturn/tree/main?tab=readme-ov-file) Research department, with initial research endeavors attempted by K-Tech Industrial.`
+- Original product of [ZKY Industries](https://github.com/ZakrinYoran/ZKYs-of-Saturn/tree/main?tab=readme-ov-file)  Research department, with initial research endeavors attempted by K-Tech Industrial.
 - `A new Slider bar will appear at the bottom of the pilot LIDAR screen and allow you to zoom in or out.  LIDAR Range is capped at 8KM to maintain a reasonable sensor ping delay.`
 
 
